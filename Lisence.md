@@ -5,7 +5,7 @@ source: http://opensource.org/licenses/MIT
 
 description: A permissive license that is short and to the point. It lets people do anything with your code with proper attribution and without warranty.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace 2014 with the current year and Jason Minming Sheng with the name (or names) of the copyright holders.
 
 required:
   - include-copyright
@@ -24,7 +24,7 @@ forbidden:
 
 The MIT License (MIT)
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2015 Minming(Jason) Sheng
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
